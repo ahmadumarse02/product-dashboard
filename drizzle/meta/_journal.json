@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1778091485636,
+      "tag": "0000_concerned_boomer",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1778093407488,
+      "tag": "0001_bored_marten_broadcloak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1778119397746,
+      "tag": "0002_previous_tarantula",
+      "breakpoints": true
+    }
+  ]
+}
